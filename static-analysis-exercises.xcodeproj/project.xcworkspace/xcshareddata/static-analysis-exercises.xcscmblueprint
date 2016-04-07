@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "58FAB5F9C616D102DBD8A1135BA15699CFA06FA3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "58FAB5F9C616D102DBD8A1135BA15699CFA06FA3" : 0,
+    "BBEF54CE3791DA9AF2DC0331E64250C64C0FA17E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "040CB220-31A8-44D9-92B5-1E782D3C5558",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "58FAB5F9C616D102DBD8A1135BA15699CFA06FA3" : "ios-static-analysis-exercises\/",
+    "BBEF54CE3791DA9AF2DC0331E64250C64C0FA17E" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "static-analysis-exercises",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "static-analysis-exercises.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/shadylane318\/ios-static-analysis-exercises.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "58FAB5F9C616D102DBD8A1135BA15699CFA06FA3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/shadylane318\/Bloc-Training.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BBEF54CE3791DA9AF2DC0331E64250C64C0FA17E"
+    }
+  ]
+}
